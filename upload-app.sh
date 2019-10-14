@@ -41,6 +41,10 @@ then
     -archivePath $CORDOVA_IOS_PATH"/"$BUNDLE_IDENTIFIER".xcarchive" \
     -exportOptionsPlist $EXPORT_OPTIONS_FILE \
     -allowProvisioningUpdates -exportPath $CORDOVA_IOS_PATH/
+
+
+    rm -f $EXPORT_OPTIONS_FILE
+    
     exit 0
 else
     echo "** Error: Not matching provisioning profile :( **"

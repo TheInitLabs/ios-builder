@@ -1,0 +1,12 @@
+{
+    "context": "ES",
+    "bundleDisplayName": "GWAPA_ES_PRE",
+    "bundleIdentifier": "com.axa.gwapa.es.pre",
+    "codeSignIdentity": "iPhone Distribution: INIT SERVICES",
+    "provisioningProfileDevelop": {
+        "com.axa.gwapa.es.pre": "9bfeea0d-7143-4d13-bb3f-1c363bxcxxc"
+    },
+    "provisioningProfileDist": {
+        "com.axa.gwapa.es.pre": "e7d13458-191f-40c5-b2b9-b404f8cxcxcx"
+    }
+}

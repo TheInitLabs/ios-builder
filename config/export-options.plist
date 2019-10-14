@@ -4,16 +4,11 @@
 <dict>
 	<key>method</key>
 	<string>app-store</string>
+	<key>destination</key>
+    <string>upload</string>
 	<key>uploadSymbols</key>
 	<false/>
 	<key>signingStyle</key>
 	<string>manual</string>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution: INIT SERVICES FOR SOCIAL INNOVATION SOCIEDAD LIMITADA</string>
-	<key>provisioningProfiles</key>
-    <dict>
-        <key>com.axa.gwapa.de.pre</key>
-        <string>0e793e06-1add-4ae9-b6b4-5599a8533d17</string>
-    </dict>
 </dict>
 </plist>
